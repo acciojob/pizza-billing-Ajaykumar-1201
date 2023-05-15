@@ -62,12 +62,6 @@ public class Pizza {
 
 
     }
-//    Base Price Of The Pizza: 300
-//    Extra Cheese Added: 80
-//    Extra Toppings Added: 70
-//    Paperbag Added: 20
-//    Total Price: 470
-
     public String getBill(){
         // your code goes here
         if(flag1) {
