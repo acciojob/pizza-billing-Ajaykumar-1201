@@ -77,7 +77,7 @@ public class Pizza {
         if(flag3) {
             bill += "Paperbag Added: " + PaperbagPrice + "\n";
         }
-        bill += "Total Price: " + getPrice();
+        bill += "Total Price: " + getPrice() + "\n";
         return this.bill;
     }
 }
